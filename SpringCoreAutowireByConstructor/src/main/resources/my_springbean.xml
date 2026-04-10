@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+
+	<bean id="myEmpAddress" class="com.ibc.training.Address">
+		<property name="addressLine1" value="HSR Layout, Sector1" />
+		<!-- Setter Injection -->
+		<property name="addressLine2" value="Bangalore, Karnatka" />
+		<!-- Setter Injection -->
+	</bean>
+	<bean id="empobject" class="com.ibc.training.Employee"
+		autowire="constructor">
+		<!-- auto wire by constructor -->
+		<property name="employeeId" value="1001" />
+		<!-- Setter Injection -->
+		<property name="salary" value="200000" />
+		<!-- Setter Injection -->
+		<!-- <constructor-arg ref="addressObject" /> -->
+		<!-- This is absent Constructor Injection -->
+	</bean>
+</beans>

@@ -1,0 +1,13 @@
+===== INVOICE =====
+Invoice No : INV-9000
+Booking Id : BK-1000
+Guest      : Anvesh
+Room       : 301 (SUITE)
+Check-In   : 2026-01-29
+Check-Out  : 2026-01-30
+Nights     : 1
+Nightly    : Rs.7,000.00
+Tax        : Rs.840.00
+Discount   : Rs.0.00
+TOTAL      : Rs.7,840.00
+Generated  : 2026-01-29T02:19:57.206

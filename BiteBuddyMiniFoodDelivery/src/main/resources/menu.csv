@@ -1,0 +1,18 @@
+id,name,price,veg,category
+101,Paneer Tikka,220.00,true,STARTERS
+102,Chicken Kebab,260.00,false,STARTERS
+103,Gobi Manchurian,150.00,true,STARTERS
+104,Chicken 65,190.00,false,STARTERS
+201,Veg Biryani,180.00,true,MAIN_COURSE
+202,Chicken Biryani,220.00,false,MAIN_COURSE
+203,Curd Rice,120.00,true,MAIN_COURSE
+204,Fried Rice,160.00,true,MAIN_COURSE
+205,Paneer Butter Masala,200.00,true,MAIN_COURSE
+206,Chicken Curry,240.00,false,MAIN_COURSE
+301,Gulab Jamun,90.00,true,DESSERTS
+302,Ice Cream,120.00,true,DESSERTS
+303,Brownie,140.00,true,DESSERTS
+401,Lassi,70.00,true,BEVERAGES
+402,Cold Coffee,130.00,true,BEVERAGES
+403,Lime Soda,60.00,true,BEVERAGES
+404,Masala Chai,20.00,true,BEVERAGES

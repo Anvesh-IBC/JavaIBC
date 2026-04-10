@@ -1,0 +1,12 @@
+Order ID: 1
+Date: Mon Feb 09 22:41:13 IST 2026
+
+Items:
+Veg Burger x5 = 600.0
+Subtotal: 600.0
+Coupon Discount: 0.0
+Extra Discount: 50.0
+Delivery Fee: 40.0
+TOTAL: 590.0
+
+Payment done via UPI

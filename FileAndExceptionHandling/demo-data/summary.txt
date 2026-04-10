@@ -1,0 +1,6 @@
+=== Order Summary ===
+totalOrders: 4
+totalQty: 999Items:
+  - Pizza: 5
+  - Burger: 1
+  - Pasta: 1

@@ -1,0 +1,26 @@
+# Maven
+target/
+
+# Maven Wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# STS / Eclipse
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.apt_generated
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+/.metadata/

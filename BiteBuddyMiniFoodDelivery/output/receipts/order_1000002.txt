@@ -1,0 +1,17 @@
+=== BiteBuddy Receipt ===
+Order: 1000002  Date: 2026-01-24 20:11
+Customer: Anvesh
+Address: BTM Layout
+Payment Ref: UPI-OK-1000002
+Status: CONFIRMED
+
+Items:
+  Chicken 65 x 20 = Rs.3,800.00
+
+Subtotal       : Rs.3,800.00
+Tax            : Rs.190.00
+Delivery Fee   : Rs.30.00
+Discount       : Rs.380.00
+-------------------------------------
+Total          : Rs.3,640.00
+Assigned Rider : Arun (Area: HSR)

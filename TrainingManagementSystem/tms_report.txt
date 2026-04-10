@@ -1,0 +1,4 @@
+=== Enrollment Report for CRS-101 ===
+Total Enrollments: 2
+ - Trainee: TRN-001, Enrolled At: 2026-02-09 22:38:34
+ - Trainee: TRN-002, Enrolled At: 2026-02-09 22:38:34

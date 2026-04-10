@@ -1,0 +1,13 @@
+===== INVOICE =====
+Invoice No : INV-9000
+Booking Id : BK-1000
+Guest      : Prasanna
+Room       : 1 (STANDARD)
+Check-In   : 2026-01-30
+Check-Out  : 2026-01-31
+Nights     : 1
+Nightly    : Rs.3,000.00
+Tax        : Rs.360.00
+Discount   : Rs.0.00
+TOTAL      : Rs.3,360.00
+Generated  : 2026-01-30T21:17:42.679
