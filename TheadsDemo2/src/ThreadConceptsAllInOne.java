@@ -49,6 +49,6 @@ public class ThreadConceptsAllInOne {
 		inc2.join();
 
 		System.out.println("State after finish: " + thread1.getState());
-		System.out.println("Final synchronized count: " + counter.getCount());
+		System.out.println("Final synchronized count:" + counter.getCount());
 	}
 }
